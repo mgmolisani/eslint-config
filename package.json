@@ -1,0 +1,25 @@
+{
+  "name": "@mgmolisani-private/eslint-config",
+  "version": "1.0.0",
+  "description": "Personal ESLint config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmolisani/eslint-config.git"
+  },
+  "author": "Mike Molisani <mgmolisani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgmolisani/eslint-config/issues"
+  },
+  "homepage": "https://github.com/mgmolisani/eslint-config#readme",
+  "devDependencies": {
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4"
+  },
+  "peerDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
