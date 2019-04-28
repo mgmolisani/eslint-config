@@ -1,4 +1,4 @@
-# `@mgmolisani-private/prettier-config`
+# `@mgmolisani-private/eslint-config`
 
 > My personal [ESLint](https://eslint.org) config.
 
