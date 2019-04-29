@@ -15,6 +15,6 @@ $ npm i -D @mgmolisani-private/eslint-config
 ```javascript
 module.exports = {
   // ...
-  "extends": ["@mgmolisani-private/eslint-config"]
+  extends: [`@mgmolisani-private/eslint-config`]
 }
 ```
